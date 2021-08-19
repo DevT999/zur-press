@@ -1,1 +1,1 @@
-# zur-press
+# .privilege restricted
